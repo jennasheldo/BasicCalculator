@@ -14,7 +14,7 @@ public class Calculator {
         System.out.print ("Enter second operand: ");
         secondOp = scnr.nextDouble (); //looking for double, input can have decimals
 
-        System.out.println ("Calculator Menu"); // displays menu
+        System.out.println ("This is the Calculator Menu"); // displays menu
         System.out.println ("---------------");
         System.out.println ("1. Addition");
         System.out.println ("2. Subtraction");
